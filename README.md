@@ -7,6 +7,7 @@ This project involves the analysis of customer spending patterns to provide valu
 ## Data Source
 
 The analysis leverages data from 4,000 customers over a span of 6 months across five different cities.
+Data credit : https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 ## Tables
 
